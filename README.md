@@ -16,8 +16,8 @@ The script also filters out aws managed policies.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/JacobAmar/aws-ebs-policy-checker.git
-    cd aws-ebs-policy-checker
+    git clone https://github.com/JacobAmar/aws-policy-checker.git
+    cd aws-policy-checker
     ```
 
 2. Install the required packages:
