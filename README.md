@@ -1,4 +1,4 @@
-# EBS Policy Validator
+# AWS Policy Validator
 
 This script audits IAM policies for specific statements using AWS Boto3 and concurrent threading.
 
